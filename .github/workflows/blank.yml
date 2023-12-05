@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your P.L.M Movement Merch</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #f4f4f4;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+
+        header {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 1em;
+        }
+
+        section {
+            margin: 20px;
+            padding: 20px;
+            background-color: #fff;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        h2 {
+            color: #333;
+        }
+
+        footer {
+            text-align: center;
+            padding: 1em;
+            background-color: #333;
+            color: #fff;
+        }
+    </style>
+</head>
+
+<body>
+    <header>
+        <h1>Your P.L.M Movement Merch</h1>
+    </header>
+
+    <section>
+        <h2>About the P.L.M Movement</h2>
+        <p>Insert a brief description of the P.L.M Movement and its mission here.</p>
+    </section>
+
+    <section>
+        <h2>Shop Custom Merch</h2>
+        <p>Explore our collection of custom T-shirts, hoodies, and hats.</p>
+        <ul>
+            <li><strong>T-Shirts:</strong> [Add details and prices]</li>
+            <li><strong>Hoodies:</strong> [Add details and prices]</li>
+            <li><strong>Hats:</strong> [Add details and prices]</li>
+        </ul>
+        <p>To place an order, [provide instructions here].</p>
+    </section>
+
+    <section>
+        <h2>Contact Us</h2>
+        <p>For inquiries or support, feel free to contact us at [your email or phone number].</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2023 Your P.L.M Movement</p>
+    </footer>
+</body>
+
+</html>
+
+          echo test, and deploy your project.
